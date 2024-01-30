@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Maths Puzzles</string>
+    <string name="Game_Over">Game Over</string>
+    <string name="Restart_Game">Restart</string>
+    <string name="Exit">Exit</string>
+    <string name="Share">Share </string>
+    <string name="play">play</string>
+    <string name="plus"> + </string>
+    <string name="Minus">- </string>
+    <string name="Multi"> X </string>
+    <string name="Division"> ÷</string>
+    <string name="All">All</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
